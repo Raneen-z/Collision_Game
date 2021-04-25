@@ -13,3 +13,12 @@ the code for checking intraction
           
         }
 ```
+
+### Start
+<img src="img/start.png" alt="drawing" width="350"/>
+
+### Win
+<img src="img/win.png" alt="drawing" width="350"/>
+
+### Game Over
+<img src="img/lose.png" alt="drawing" width="350"/>
